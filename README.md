@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/luckinkhiin/rbg.png" width='600px' alt="老婆">
+<img align="right" src="https://cdn.jsdelivr.net/gh/luckinkhiin/rbg.png" width='600px' alt="rbg">
 
 ## luckinkhin  用心必能扭转.
 >**命运是什么？我才不信。** <br>
@@ -9,7 +9,7 @@
 >**个人介绍**
 
 隐居田野平淡如水永持陋室之志的懒虫 <br>
-Windows->Ubuntu->Kali->Deepin->Manjaro->Hackintosh
+Windows->Ubuntu->Kali->Deepin->Manjaro->Hackintosh<br>
 易语言->VB6->C++->Java->C#->JavaScript->Python<br>
 GDI+->DirectX->OpenGL->Unity3D<br>
 计算机网络->软件技术->信息安全->神经科学<br>
