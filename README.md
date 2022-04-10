@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/luckinkhin/luckinkhin/rbg.png" width='450px' alt="rbg">
+<img align="right" src="https://cdn.jsdelivr.net/gh/luckinkhin/luckinkhin/rbg.png" width='460px' alt="rbg">
 
 ## luckinkhin  用心必能扭转.
 >**命运是什么？我才不信。** <br>
@@ -8,13 +8,14 @@
 
 >**个人介绍**
 
-隐居田野平淡如水永持陋室之志的懒虫 <br>
+_隐居田野平淡如水永持陋室之志的可笑懒虫一只._ <br>
 Windows->Ubuntu->Kali->Deepin->Manjaro->Hackintosh<br>
 易语言->VB6->C++->Java->C#->JavaScript->Python<br>
 GDI+->DirectX->OpenGL->Unity3D<br>
 计算机网络->软件技术->信息安全->神经科学<br>
-职教学生、每日疲惫、无精打采、没事别扰<br>
-没有我感兴趣的事，一般不会有好态度。
+尚且奋斗的职教学生、褪不去的每日疲惫<br>
+对待生活提不起劲、没事别扰我休息<br>
+~~如果没有我感兴趣的事，我通常不会有好态度!~~
 <details>
     <summary><strong>联系方式</strong></summary>
 
@@ -45,9 +46,10 @@ GDI+->DirectX->OpenGL->Unity3D<br>
 > [![Python](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 > <br>
 > 会一点点 <br>
-> [![Cpp](https://img.shields.io/badge/-C++-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
+> [![C](https://img.shields.io/badge/-VC-6495ED?style=flat-square&logo=C&logoColor=fff)](https://zh.cppreference.com/)
 > [![HTML](https://img.shields.io/badge/-HTML-FF4500?style=flat-square&logo=Html5&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 > [![CSS](https://img.shields.io/badge/-CSS-4682B4?style=flat-square&logo=CSS3&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
+> [![CSharp](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 > <br>
 > 正在学习 <br>
 > [![dart](https://img.shields.io/badge/-dart-00ADD8?style=flat-square&logo=dart&logoColor=fff)](https://dart.dev/)
