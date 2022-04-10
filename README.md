@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/luckinkhiin/rbg.png" width='600px' alt="rbg">
+<img align="right" src="https://cdn.jsdelivr.net/gh/luckinkhin/luckinkhin/rbg.png" width='600px' alt="rbg">
 
 ## luckinkhin  用心必能扭转.
 >**命运是什么？我才不信。** <br>
