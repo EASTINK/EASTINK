@@ -9,11 +9,11 @@
 >**个人介绍**
 
 _隐居田野平淡如水永持陋室之志的可笑懒虫一只._ <br>
-Windows->Ubuntu->Kali->Deepin->Manjaro->Hackintosh<br>
+Windows->Ubuntu->Kali->Deepin->NixOs->Hackintosh<br>
 易语言->VB6->C++->Java->C#->JavaScript->Python<br>
 GDI+->DirectX->OpenGL->Unity3D<br>
-计算机网络->软件技术->信息安全->神经科学<br>
-尚且奋斗的职教学生、褪不去的每日疲惫<br>
+计算机网络->软件技术->信息安全->神经计算科学(目标)<br>
+尚且奋斗的职校学生、褪不去的每日疲惫<br>
 对待生活提不起劲、没事别扰我休息<br>
 ~~如果没有我感兴趣的事，我通常不会有好态度!~~
 <details>
@@ -27,7 +27,7 @@ GDI+->DirectX->OpenGL->Unity3D<br>
 > [![QQ](https://img.shields.io/badge/QQ-%E8%9C%BB%E8%9C%93-FF6A6A.svg)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2045586852)
 > <br>
 > 个人网站 <br>
-> [![Blog](https://img.shields.io/badge/Blog-%E5%81%9C%E6%AD%A2%E8%AE%BF%E9%97%AE-FF6A6A?style=flat-square)](#)
+> [![Blog](https://img.shields.io/badge/Blog-%E5%81%9C%E6%AD%A2%E8%AE%BF%E9%97%AE-FF6A6A?style=flat-square)](https://eastflow.icu)
 > <br>
 > 个人邮箱 <br>
 > [![Mail](https://img.shields.io/badge/Mail-2045586852@qq.com-458B00?style=flat-square)](mailto:2045586852@qq.com)
