@@ -11,8 +11,8 @@
 _隐居田野平淡如水永持陋室之志的可笑懒虫一只._ <br>
 Windows->Ubuntu->Kali->Deepin->NixOs->Hackintosh<br>
 易语言->VB6->C++->Java->C#->JavaScript->Python<br>
-GDI+->DirectX->OpenGL->Unity3D<br>
-计算机网络->软件技术->信息安全->神经计算科学(目标)<br>
+<br>
+计算机网络应用->信息安全->神经计算科学(目标)<br>
 尚且奋斗的职校学生、褪不去的每日疲惫<br>
 对待生活提不起劲、没事别扰我休息<br>
 ~~如果没有我感兴趣的事，我通常不会有好态度!~~
