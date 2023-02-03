@@ -79,8 +79,3 @@ Windows->Ubuntu->Kali->Deepin->NixOs->Hackintosh<br>
 > [![Git](https://img.shields.io/badge/Git-yellow?style=flat-square&logo=git)](https://git-scm.com/)
 </details>
 
-<details>
-	<summary><strong>Github Activity Graph</strong></summary>
-	
-![kagurayayoi's github activity graph](https://activity-graph.herokuapp.com/graph?username=luckinkhin&bg_color=ffffff&color=0095d9&line=00a3af&point=00a497&area=false&hide_border=true)
-</details>
