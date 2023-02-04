@@ -1,8 +1,8 @@
-<img align="middle" src="https://cdn.jsdelivr.net/gh/luckinkhin/luckinkhin/2023-02-03-06-32-59-4869354883733015696.png" width='700px' alt="rbg">
-#生活多少不易 太阳照然升起
-## luckinkhin  
+# 生活多少不易 太阳照然升起
 
-![luckinkhin](https://count.getloli.com/get/@:luckinkhiin)
+<img align="middle" src="https://cdn.jsdelivr.net/gh/luckinkhin/luckinkhin/2023-02-03-06-32-59-4869354883733015696.png" width='700px' alt="rbg">
+
+#
 
 >**个人介绍**
 
@@ -12,6 +12,9 @@ _隐居田野平淡如水永持陋室之志的可笑懒虫一只._ <br>
 尚且奋斗的职校学生、褪不去的每日疲惫<br>
 对待生活提不起劲、没事别扰我休息<br>
 ~~如果没有我感兴趣的事，我通常不会有好态度!~~
+
+![luckinkhin](https://count.getloli.com/get/@:luckinkhiin)
+
 <details>
     <summary><strong>联系方式</strong></summary>
 
