@@ -1,6 +1,6 @@
 # 生活多少不易 太阳照然升起
 
-<img align="middle" src="https://cdn.jsdelivr.net/gh/luckinkhin/luckinkhin/2023-02-03-06-32-59-4869354883733015696.png" width='700px' alt="rbg">
+<img align="middle" src="https://cdn.jsdelivr.net/gh/EASTINK/EASTINK/2023-02-03-06-32-59-4869354883733015696.png" width='700px' alt="rbg">
 
 #
 
@@ -13,13 +13,13 @@ _隐居田野平淡如水永持陋室之志的可笑懒虫一只._ <br>
 对待生活提不起劲、没事别扰我休息<br>
 ~~如果没有我感兴趣的事，我通常不会有好态度!~~
 
-![luckinkhin](https://count.getloli.com/get/@:luckinkhiin)
+![EASTINK](https://count.getloli.com/get/@:EASTINK)
 
 <details>
     <summary><strong>联系方式</strong></summary>
 
 > 开源社区账号 <br>
-> [![GitHub](https://img.shields.io/badge/GitHub-luckinkhin-FF6A6A?style=flat-square&logo=github)](https://github.com/luckinkhin)
+> [![GitHub](https://img.shields.io/badge/GitHub-EASTINK-FF6A6A?style=flat-square&logo=github)](https://github.com/EASTINK)
 > [![Gitee](https://img.shields.io/badge/Gitee-Qt_ink-FF6A6A?style=flat-square&logo=gitee)](https://gitee.com/Qt_ink)
 > <br>
 > 社交平台账号 <br>
@@ -34,7 +34,7 @@ _隐居田野平淡如水永持陋室之志的可笑懒虫一只._ <br>
 <details>
 	<summary><strong>Top Language</strong></summary>
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckinkhin&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EASTINK&layout=compact)
 </details>
 <details>
     <summary><strong>Programming Language</strong></summary>
