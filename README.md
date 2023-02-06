@@ -13,7 +13,7 @@ _隐居田野平淡如水永持陋室之志的可笑懒虫一只._ <br>
 对待生活提不起劲、没事别扰我休息<br>
 ~~如果没有我感兴趣的事，我通常不会有好态度!~~
 
-![EASTINK](https://count.getloli.com/get/@:EASTINK)
+![EASTINK](https://count.getloli.com/get/@:EASTINK?theme=rule34)
 
 <details>
     <summary><strong>联系方式</strong></summary>
