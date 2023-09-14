@@ -1,14 +1,8 @@
-# 生活多少不易 太阳照然升起
-
-<img align="middle" src="https://cdn.jsdelivr.net/gh/EASTINK/EASTINK/2023-02-03-06-32-59-4869354883733015696.png" width='700px' alt="rbg">
-
-#
-
 >**个人介绍**
 
 _隐居田野平淡如水永持陋室之志的可笑懒虫一只._ <br>
 <br>
-计算机网络应用->信息安全->神经计算科学(目标)<br>
+计算机网络应用->信息安全->摆烂(target)<br>
 尚且奋斗的职校学生、褪不去的每日疲惫<br>
 对待生活提不起劲、没事别扰我休息<br>
 ~~如果没有我感兴趣的事，我通常不会有好态度!~~
@@ -49,12 +43,13 @@ _隐居田野平淡如水永持陋室之志的可笑懒虫一只._ <br>
 > [![HTML](https://img.shields.io/badge/-HTML-FF4500?style=flat-square&logo=Html5&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 > [![CSS](https://img.shields.io/badge/-CSS-4682B4?style=flat-square&logo=CSS3&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 > [![CSharp](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-> <br>
-> 正在学习 <br>
+> [![Go](https://img.shields.io/badge/-Go-e7441b?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
 > [![Dart](https://img.shields.io/badge/-Dart-00ADD8?style=flat-square&logo=dart&logoColor=fff)](https://dart.dev/)
 > [![JavaScript](https://img.shields.io/badge/-Nodejs-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+> 
+> 正在学习<br>
+> [![Rust](https://img.shields.io/badge/-Rust-00ADD8?style=flat-square&logo=rust&logoColor=fff)](https://www.rust-lang.org/)
 > [![C++](https://img.shields.io/badge/-C++-4FC08D?style=flat-square&logo=Cplusplus&logoColor=fff)](http://open-std.org/JTC1/SC22/WG21/)
-> [![Go](https://img.shields.io/badge/-Go-e7441b?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)	
 	
 </details>
 <details>
